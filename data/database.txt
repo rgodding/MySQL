@@ -1,0 +1,2 @@
+testbase;id_name_skill;testbase for idk
+skejs;id_name_job_age_birthday;somethingsomething jobs?
